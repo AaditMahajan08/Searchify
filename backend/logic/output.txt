@@ -1,0 +1,2 @@
+Pattern occurs at line 1 at column 1
+Number of occurrences: 1
