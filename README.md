@@ -56,7 +56,7 @@ npm install
 In the `backend/logic/` folder, compile the Aho-Corasick implementation:
 
 ```bash
-g++ code.cpp -o searchtool
+g++ main.cpp -o searchtool
 ```
 
 This generates the `searchtool` executable used by the backend.
